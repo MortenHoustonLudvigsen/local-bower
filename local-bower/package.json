@@ -1,0 +1,34 @@
+{
+  "name": "local-bower",
+  "version": "1.0.0",
+  "description": "Tools for a local bower repository",
+  "main": "lib/local-bower.js",
+  "typings": "lib/local-bower.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "lib/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MortenHoustonLudvigsen/local-bower.git"
+  },
+  "keywords": [
+    "bower",
+    "private",
+    "local",
+    "bower-resolver"
+  ],
+  "author": "Morten Houston Ludvigsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MortenHoustonLudvigsen/local-bower/issues"
+  },
+  "homepage": "https://github.com/MortenHoustonLudvigsen/local-bower#readme",
+  "dependencies": {
+    "tmp": "0.0.28"
+  }
+}

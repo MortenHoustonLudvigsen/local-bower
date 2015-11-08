@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "description": "Test of local-bower",
+  "main": "index.js",
+  "authors": [
+    "Morten Houston Ludvigsen"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MortenHoustonLudvigsen/local-bower",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

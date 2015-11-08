@@ -1,0 +1,9 @@
+{
+  "name": "local-bower-test",
+  "private": true,
+  "version": "1.0.0",
+  "devDependencies": {
+    "bower": "^1.6.5",
+    "jasmine": "^2.3.2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+	"resolvers": [
+		"local-bower"
+	],
+	"local-bower": {
+		"url": ""
+	}
+}
